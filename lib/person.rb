@@ -6,8 +6,6 @@ class Person
   def job
     @job
   end 
-  
-end 
 
   def name=(name)
     @name = name
